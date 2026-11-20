@@ -1,0 +1,32 @@
+
+# Python
+venv/
+venv/
+__pycache__/
+*.pyc
+
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+target/
+*.class
+
+# Archivos locales
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+target/
